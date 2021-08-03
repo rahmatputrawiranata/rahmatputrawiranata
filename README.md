@@ -31,14 +31,13 @@ Hello, my name is Rahmat Putra Wiranata. I am a Software Engineer with five year
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=react&style=social)&nbsp;&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-black?logo=vue.js&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)&nbsp;&nbsp;
 
-![Andreas's Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatputrawiranata&count_private=true&show_icons=true&include_all_commits=true)
+![Rahmat's Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatputrawiranata&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatputrawiranata&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatputrawiranata&hide=Html,CSS,Blade&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmatputrawiranata)
+
